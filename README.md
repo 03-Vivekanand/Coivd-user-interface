@@ -1,1 +1,2 @@
-# Coivd-user-interface
+# Covid-User-Interface
+Using HTML, CSS and JS.
